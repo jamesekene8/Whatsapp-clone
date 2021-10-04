@@ -1,0 +1,16 @@
+.login {
+  margin: auto;
+}
+
+.login > input {
+  border-radius: 10px;
+  width: 400px;
+  height: 20px;
+  outline-width: 0;
+}
+
+button {
+  border-radius: 10px;
+  background-color: green;
+  display: block;
+}
